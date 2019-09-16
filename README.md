@@ -7,5 +7,13 @@ Studiju kursa Datormācība(pamatkurss) elektroniskā klade
 **whoami** rāda, kadā profilā tu esi 
 **dir** rāda failu sarakstu, kas atrodas uzdotajā katalogā
 **uname** rāda sistēmas tipu (Linux, Windows un tt.)
-**bash** komanda līnīja ar tg
+**bash** komanda līnīja 
 **man** palīdz izvelēt manualo lapu
+**echo** paradīt teksta līniju
+**cat** parlukošana
+**ls -l** paradīt
+**>** pirma linija
+**>>** otra līnija
+**cp** kopēt
+**rm** dzēst informaciju
+**touch** failu veidošana
