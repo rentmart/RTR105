@@ -1,12 +1,84 @@
     1  VirtualBox --startvm XP
     2  quartus
     3  git
-    4  git clone https://github.com/rentmart/RTR105
-    5  ls -l
-    6  got
-    7  git
-    8  cd ~/RTR105
-    9  nano git- upload
+    4  git-upload
+    5  nano git-upload
+    6  ls -l
+    7  chmod 755 git-upload 
+    8  ls -l
+    9  sh git-upload
    10  ls -l
-   11  history
-   12  history > history_20190923.txt
+   11  ./git-upload 
+   12  nano git-upload
+   13  ./git-upload 
+   14  nano git-upload
+   15  ./git-upload 
+   16  cat git-upload
+   17  ./git-upload a b 
+   18  ./git-upload 20190923_15_15
+   19  pwd
+   20  mkdir darbi
+   21  cd darbi 
+   22  ls -l
+   23  pwd
+   24  nano elementary.c
+   25  ls -l
+   26  cat elementary.c
+   27  gcc elementary.c 
+   28  ls -l
+   29  a.out
+   30  cat a.out
+   31  nano elementary.c 
+   32  cat elementary.c 
+   33  gcc elementary.c  -o prd1
+   34  ls -l
+   35  ./prg1
+   36  ./prd1
+   37  ./a.out
+   38  nano elementary.c 
+   39  gcc elementary.c  -o prg2
+   40  ls -l
+   41  gcc elementary.c  -o prd1
+   42  nano elementary.c 
+   43  gcc elementary.c  -o prd1
+   44  ls -l
+   45  nano elementary.c 
+   46  ls -l
+   47  cat elementary.c 
+   48  gcc elementary.c -o prg2
+   49  ls -l
+   50  nano elementary.c 
+   51  cat elementary.c 
+   52  gcc elementary.c -o prg3
+   53  ls -l
+   54  cp elementary.c hello.c
+   55  ls -l
+   56  nano hello.c
+   57  cat hello.c 
+   58  gcc hello.c -o prg4
+   59  nano hello.c 
+   60  cat hello.c 
+   61  gcc hello.c -o prg4
+   62  nano hello.c 
+   63  gcc hello.c  -o prg4
+   64  nano hello.c 
+   65  gcc hello.c  -o prg4
+   66  ls -l
+   67  ./prg4
+   68  nano hello.c 
+   69  gcc hello.c -o prg5
+   70  ./prg5
+   71  nano hello.c 
+   72  gcc hello.c -o prg6
+   73  nano hello.c 
+   74  gcc hello.c -o prg6
+   75  rm prd1
+   76  rmp prg2
+   77  ls -l
+   78  ls prg*
+   79  history_20190923.txt
+   80  rm prd*
+   81  rm prg*
+   82  ls -l
+   83  cd ..
+   84  history > history_20190923.txt
