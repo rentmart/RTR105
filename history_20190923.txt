@@ -1,0 +1,12 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git
+    4  git clone https://github.com/rentmart/RTR105
+    5  ls -l
+    6  got
+    7  git
+    8  cd ~/RTR105
+    9  nano git- upload
+   10  ls -l
+   11  history
+   12  history > history_20190923.txt
