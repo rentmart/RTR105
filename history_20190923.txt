@@ -1,84 +1,134 @@
     1  VirtualBox --startvm XP
     2  quartus
     3  git
-    4  git-upload
-    5  nano git-upload
-    6  ls -l
-    7  chmod 755 git-upload 
-    8  ls -l
-    9  sh git-upload
+    4  git clone https://github.com/rentmart/RTR105
+    5  ls -l
+    6  got
+    7  git
+    8  cd ~/RTR105
+    9  nano git- upload
    10  ls -l
-   11  ./git-upload 
-   12  nano git-upload
-   13  ./git-upload 
-   14  nano git-upload
-   15  ./git-upload 
-   16  cat git-upload
-   17  ./git-upload a b 
-   18  ./git-upload 20190923_15_15
-   19  pwd
-   20  mkdir darbi
-   21  cd darbi 
+   11  history
+   12  history > history_20190923.txt
+   13  ls -l
+   14  nano git- upload
+   15  nano git-upload
+   16  nano git- upload
+   17  firefox
+   18  git-upload
+   19  nano git-upload
+   20  ls -l
+   21  chmod 755 git-upload 
    22  ls -l
-   23  pwd
-   24  nano elementary.c
-   25  ls -l
-   26  cat elementary.c
-   27  gcc elementary.c 
-   28  ls -l
-   29  a.out
-   30  cat a.out
-   31  nano elementary.c 
-   32  cat elementary.c 
-   33  gcc elementary.c  -o prd1
-   34  ls -l
-   35  ./prg1
-   36  ./prd1
-   37  ./a.out
-   38  nano elementary.c 
-   39  gcc elementary.c  -o prg2
-   40  ls -l
-   41  gcc elementary.c  -o prd1
-   42  nano elementary.c 
-   43  gcc elementary.c  -o prd1
-   44  ls -l
+   23  sh git-upload
+   24  ls -l
+   25  ./git-upload 
+   26  nano git-upload
+   27  ./git-upload 
+   28  nano git-upload
+   29  ./git-upload 
+   30  cat git-upload
+   31  ./git-upload a b 
+   32  ./git-upload 20190923_15_15
+   33  pwd
+   34  mkdir darbi
+   35  cd darbi 
+   36  ls -l
+   37  pwd
+   38  nano elementary.c
+   39  ls -l
+   40  cat elementary.c
+   41  gcc elementary.c 
+   42  ls -l
+   43  a.out
+   44  cat a.out
    45  nano elementary.c 
-   46  ls -l
-   47  cat elementary.c 
-   48  gcc elementary.c -o prg2
-   49  ls -l
-   50  nano elementary.c 
-   51  cat elementary.c 
-   52  gcc elementary.c -o prg3
-   53  ls -l
-   54  cp elementary.c hello.c
-   55  ls -l
-   56  nano hello.c
-   57  cat hello.c 
-   58  gcc hello.c -o prg4
-   59  nano hello.c 
-   60  cat hello.c 
-   61  gcc hello.c -o prg4
-   62  nano hello.c 
-   63  gcc hello.c  -o prg4
-   64  nano hello.c 
-   65  gcc hello.c  -o prg4
-   66  ls -l
-   67  ./prg4
-   68  nano hello.c 
-   69  gcc hello.c -o prg5
-   70  ./prg5
-   71  nano hello.c 
-   72  gcc hello.c -o prg6
+   46  cat elementary.c 
+   47  gcc elementary.c  -o prd1
+   48  ls -l
+   49  ./prg1
+   50  ./prd1
+   51  ./a.out
+   52  nano elementary.c 
+   53  gcc elementary.c  -o prg2
+   54  ls -l
+   55  gcc elementary.c  -o prd1
+   56  nano elementary.c 
+   57  gcc elementary.c  -o prd1
+   58  ls -l
+   59  nano elementary.c 
+   60  ls -l
+   61  cat elementary.c 
+   62  gcc elementary.c -o prg2
+   63  ls -l
+   64  nano elementary.c 
+   65  cat elementary.c 
+   66  gcc elementary.c -o prg3
+   67  ls -l
+   68  cp elementary.c hello.c
+   69  ls -l
+   70  nano hello.c
+   71  cat hello.c 
+   72  gcc hello.c -o prg4
    73  nano hello.c 
-   74  gcc hello.c -o prg6
-   75  rm prd1
-   76  rmp prg2
-   77  ls -l
-   78  ls prg*
-   79  history_20190923.txt
-   80  rm prd*
-   81  rm prg*
-   82  ls -l
-   83  cd ..
-   84  history > history_20190923.txt
+   74  cat hello.c 
+   75  gcc hello.c -o prg4
+   76  nano hello.c 
+   77  gcc hello.c  -o prg4
+   78  nano hello.c 
+   79  gcc hello.c  -o prg4
+   80  ls -l
+   81  ./prg4
+   82  nano hello.c 
+   83  gcc hello.c -o prg5
+   84  ./prg5
+   85  nano hello.c 
+   86  gcc hello.c -o prg6
+   87  nano hello.c 
+   88  gcc hello.c -o prg6
+   89  rm prd1
+   90  rmp prg2
+   91  ls -l
+   92  ls prg*
+   93  history_20190923.txt
+   94  rm prd*
+   95  rm prg*
+   96  ls -l
+   97  cd ..
+   98  history > history_20190923.txt
+   99  ./git-upload 20190923_16_07
+  100  firefox 
+  101  cd darbi
+  102  cd ~./RTR105
+  103  cd ./RTR105
+  104  cddarbi
+  105  cd darbi
+  106  cp hello.c 02.c
+  107  nano 02.c 
+  108  gcc 02.c -o 02
+  109  nano 02.c 
+  110  ls -l
+  111  ./02
+  112  cp hello.c 03.c
+  113  nano 03.c 
+  114  nano 02.c 
+  115  nano 03.c 
+  116  ls -l
+  117  ./03
+  118  ./03.c
+  119  ./03
+  120  gcc 03.c -o 03
+  121  ./03
+  122  ./03cd ..
+  123  cd ..
+  124  nano 02.c
+  125  nano 02.c 
+  126  nano 02
+  127  ls -l
+  128  cd ./RTR105
+  129  cd darbi
+  130  nano 02.c 
+  131  cd ..
+  132  cd ./RTR105
+  133  ls -l
+  134  history > history_20190923.txt

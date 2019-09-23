@@ -1,0 +1,7 @@
+void main()
+ {
+// Hello World! // neder
+// "Hello World!" // neder
+ printf("Helloorld!"); // der, bet teksts neparādās
+ }
+
